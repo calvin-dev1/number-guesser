@@ -1,4 +1,4 @@
-# 🎯 Number Guesser Game
+#  Number Guesser Game
 
 A simple command-line number guessing game written in Python.
 
@@ -6,7 +6,7 @@ The computer selects a random number between 1 and 100, and you try to guess it.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 - The secret number is chosen at random.
 - You can guess as many times as you'd like.
@@ -15,7 +15,7 @@ The computer selects a random number between 1 and 100, and you try to guess it.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 Make sure you have Python 3 installed, then run:
 
