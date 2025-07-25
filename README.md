@@ -20,4 +20,6 @@ The computer selects a random number between 1 and 100, and you try to guess it.
 Make sure you have Python 3 installed, then run:
 
 ```bash
-python number_guesser.py
+python3 number_guesser.py
+
+
